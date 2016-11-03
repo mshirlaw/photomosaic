@@ -1,0 +1,32 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.content {
+	margin: auto;
+	width: 60%;
+}
+
+h1 {
+	font-size: 2.5em;
+	font-weight: 300;
+	text-align: center;
+}
+
+#instructions {
+	margin: 20px;
+	text-align: center;
+}
+
+#target {
+	border: 2px dashed silver;
+	color: silver;
+	font-size: 1.5em;
+	line-height: 4;
+	text-align: center;
+}
+
+#mosaic {
+	text-align: center;
+	margin: 20px;
+}
