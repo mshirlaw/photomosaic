@@ -1,0 +1,28 @@
+{
+  "name": "photomosaic",
+  "version": "1.0.0",
+  "description": "Drag and drop an image to create a simple photomosaic",
+  "main": "mosaic.html",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register ./test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshirlaw/photomosaic.git"
+  },
+  "keywords": [
+    "photo",
+    "photomosaic",
+    "mosaic"
+  ],
+  "author": "Matt Shirlaw <matt.shirlaw@gmail.com> (https://github.com/mshirlaw/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshirlaw/photomosaic/issues"
+  },
+  "homepage": "https://github.com/mshirlaw/photomosaic#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}

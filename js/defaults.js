@@ -1,7 +1,7 @@
-let TILE_WIDTH = 16;
-let TILE_HEIGHT = 16;
-let IMAGE_WIDTH = 1024;
-let IMAGE_HEIGHT = 768;
+var TILE_WIDTH = 16;
+var TILE_HEIGHT = 16;
+var IMAGE_WIDTH = 1024;
+var IMAGE_HEIGHT = 768;
 
 var exports = exports || null;
 if (exports) {
