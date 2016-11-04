@@ -2,7 +2,7 @@
   "name": "photomosaic",
   "version": "1.0.0",
   "description": "Drag and drop an image to create a simple photomosaic",
-  "main": "mosaic.html",
+  "main": "index.html",
   "scripts": {
     "test": "mocha --compilers js:babel-register ./test/**/*.spec.js"
   },
